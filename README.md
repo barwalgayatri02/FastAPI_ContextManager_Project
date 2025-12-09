@@ -9,22 +9,26 @@ FastAPI Project using Pydantic and context Manager
 <img width="1265" height="204" alt="image" src="https://github.com/user-attachments/assets/efadec55-f9cc-4ce3-b8f4-a00fafc4e64b" />
 
 <img width="1564" height="794" alt="image" src="https://github.com/user-attachments/assets/b5d8e883-0390-42d8-b529-68b3cfbca06f" />
+# 🚀 Basic FastAPI Project — Learn the Essentials
 
-# Basic project to learn:
-✅ How to create GET and POST endpoints
-✅ Using Pydantic for data validation
-✅ Managing virtual environments (venv)
-✅ Creating clean APIs using context managers
-✅ Exploring auto-generated OpenAPI documentation
-✅ How to test FastAPI APIs like a pro
+### What You Will Learn:
+- ✅ How to create **GET and POST endpoints**
+- ✅ Using **Pydantic** for request/response data validation
+- ✅ Managing **virtual environments (venv)**
+- ✅ Creating clean APIs using **context managers**
+- ✅ Exploring **auto-generated OpenAPI / Swagger documentation**
+- ✅ How to **test FastAPI APIs like a pro** (browser, curl, Postman)
 
-Whether you're building AI-powered APIs, deploying machine learning models, or creating a Python web application, FastAPI is your go-to framework.
+Whether you're building **AI-powered APIs**, deploying **machine learning models**, or creating a **Python web application**, **FastAPI is your go-to framework**.
 
-🔧 Tools & Concepts Covered:
-✅ Python 3.10+
-✅ FastAPI
-✅ Uvicorn
-✅ Pydantic
-✅ Swagger / OpenAPI Docs
-✅ Virtual Environment (venv)
-✅ API testing using browser/curl / Postman
+---
+
+## 🔧 Tools & Concepts Covered:
+- ✅ **Python 3.10+**
+- ✅ **FastAPI**
+- ✅ **Uvicorn**
+- ✅ **Pydantic**
+- ✅ **Swagger / OpenAPI Docs**
+- ✅ **Virtual Environment (venv)**
+- ✅ **API testing** (Browser / curl / Postman)
+
